@@ -2,7 +2,7 @@
 - 👀 I’m interested in AI, entrepreneurship, travel, yoga, padel
 - 🌱 I’m currently learning full stack programming
 - 💞️ I’m looking to collaborate on empowering people to become entrepreneurs
-- 📫 [How to reach me](https://www.linkedin.com/in/ritacostiv/)
+- 📫 [Connect with me on LinkedIn](https://www.linkedin.com/in/ritacostiv/)
 - ⚡ Fun fact: I've immigrated twice in my life... so far. 
 
 <!---
