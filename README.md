@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ritacostiv
-- 👀 I’m interested in AI, entrepreneurship, and building apps 
+- 👀 I’m interested in entrepreneurship, building apps and using AI to automate work
 - 🌱 I’m currently learning full stack programming
 - 💞️ I’m looking to collaborate on empowering people to become entrepreneurs
 - 📫 [Connect with me on LinkedIn](https://www.linkedin.com/in/ritacostiv/)
